@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.family-album-es" name="Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.907">
+<addon id="repository.family-album-es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.908">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
@@ -25,7 +25,7 @@
 - Se elimina el script (add-on de programas) default.py por redundante y 'ruidoso'
         </news>
         <assets>
-            <icon>icon.png</icon>
+            <icon>icon.jpg</icon>
         </assets>
     </extension>
 </addon>
