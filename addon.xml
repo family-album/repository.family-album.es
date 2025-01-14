@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.family-album-es" name="Instalar/actualizar el add-on para el Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.905">
+<addon id="repository.family-album-es" name="Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.906">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
@@ -19,10 +19,10 @@
         <summary lang="es">Repositorio de add-ons del Álbum Familiar</summary>
         <description lang="es">Este repositorio permite instalar y actualizar el código del Álbum Familiar directamente desde GitHub</description>
         <news>
-- Se añade el propio repositorio y el plugin del árbol familiar como únicos add-ons disponibles (eliminando los add-ons del repositorio forkeado)
-- Se cambia el nombre del add-on para expresar su orientación e idioma (español)
-- Se cambia el id del add-on por claridad y para evitar conflictos con el repositorio forkeado
-- Se actualiza el nombre del autor
+- Se parte de un fork del repositorio GitHub i96751414/repository.github (2275f63)
+- Se cambian los add-ons referenciados por los que proporcionan el álbum familiar
+- Se modifica el id del add-on, sus referencias, el nombre del autor y la versión
+- Se traducen los literales del fichero addon.xml y se redefinen sus 'news'
         </news>
         <assets>
             <icon>icon.png</icon>
