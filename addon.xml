@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.github" name="Repositorio del Add-on Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.901">
+<addon id="repository.github" name="Instalar/actualizar el add-on para el Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.902">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
