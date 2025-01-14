@@ -19,7 +19,7 @@
         <description lang="es">Este repositorio permite instalar y actualizar el código (los add-ons) del Álbum Familiar, incluida la actualización del código del propio repositorio</description>
         <news>
 - Se parte de un fork del repositorio GitHub i96751414/repository.github (2275f63)
-- Se cambian los add-ons referenciados por los que proporcionan el álbum familiar
+- Se cambian los add-ons referenciados por los propios del álbum familiar
 - Se modifica el id del add-on, sus referencias, el nombre del autor y la versión
 - Se traducen los literales del fichero addon.xml y se redefinen sus 'news'
 - Se elimina el script (add-on de programas) default.py por redundante y 'ruidoso'
