@@ -1,7 +1,7 @@
 # Kodi GitHub virtual repository
 
-[![Build Status](https://github.com/i96751414/repository.github/workflows/build/badge.svg)](https://github.com/i96751414/repository.github/actions?query=workflow%3Abuild)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b656425c8fe409eb18500bcc51c4475)](https://www.codacy.com/gh/i96751414/repository.github/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=i96751414/repository.github&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://github.com/i96751414/repository.family-album-es/workflows/build/badge.svg)](https://github.com/i96751414/repository.family-album-es/actions?query=workflow%3Abuild)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b656425c8fe409eb18500bcc51c4475)](https://www.codacy.com/gh/i96751414/repository.family-album-es/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=i96751414/repository.family-album-es&amp;utm_campaign=Badge_Grade)
 
 This add-on creates a virtual repository for Kodi. This way, one does not need to use a GitHub repository for storing add-ons zips when all that information is already accessible from each add-on repository.
 
@@ -16,7 +16,7 @@ It works by setting a HTTP server which has the following endpoints:
 
 ## Installation
 
-Get the [latest release](https://github.com/i96751414/repository.github/releases/latest) from github.
+Get the [latest release](https://github.com/i96751414/repository.family-album-es/releases/latest) from github.
 Then, [install from zip](https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file) within [Kodi](https://kodi.tv/).
 
 ## Add-on entries
