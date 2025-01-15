@@ -1,6 +1,6 @@
 [
   {
-    "id": "repository.family-album-es",
+    "id": "repository.family-album.es",
     "username": "family-album",
     "assets": {
       "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
