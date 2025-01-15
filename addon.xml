@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.family-album-es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.911">
+<addon id="repository.family-album-es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.912">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
@@ -23,7 +23,7 @@
 - Se modifica el id del add-on, sus referencias, el nombre del autor y la versión
 - Se traducen los literales del fichero addon.xml y se redefinen sus 'news'
 - Se elimina el script (add-on de programas) default.py por redundante y 'ruidoso'
-- Se cambia el icono del add-on
+- Se cambia el icono por un álbum vintage extraido de wikimedia commons
         </news>
         <assets>
             <icon>icon.jpg</icon>
