@@ -5,5 +5,12 @@
     "assets": {
       "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
     }
+  },
+  {
+    "id": "service.hello-world",
+    "username": "family-album",
+    "assets": {
+      "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
+    }
   }
 ]
