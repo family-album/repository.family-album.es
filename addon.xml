@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.family-album.es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.914">
+<addon id="repository.family-album.es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.915">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
