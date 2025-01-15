@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.family-album.es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.915">
+<addon id="repository.family-album.es" name="Add-ons del Álbum Familiar" provider-name="Santiago Ruiz" version="0.0.916">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
@@ -16,7 +16,7 @@
         <license>See https://github.com/family-album/repository.family-album-es/blob/master/LICENSE</license>
         <source>https://github.com/family-album/repository.family-album-es</source>
         <summary lang="es">Repositorio de add-ons del Álbum Familiar</summary>
-        <description lang="es">Este repositorio permite instalar y actualizar los Add-ons (complementos de Kodi) del Álbum Familiar y actualizar el Add-on del propio repositorio</description>
+        <description lang="es">Este repositorio permite instalar y actualizar los Add-ons (complementos de Kodi) del Álbum Familiar y actualizar el Add-on del propio repositorio (su instalación se habrá realizado manualmente desde un archivo zip)</description>
         <news>
 - Se parte de un fork del repositorio GitHub i96751414/repository.github (2275f63)
 - Se cambian los add-ons referenciados por los propios del álbum familiar
