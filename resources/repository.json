@@ -17,7 +17,7 @@
     "id": "script.module.debugpy",
     "username": "softalkodi",
     "assets": {
-      "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
+      "zip": "https://codeload.github.com/{username}/{repository}/zip/{version}"
     }
   }
 ]
