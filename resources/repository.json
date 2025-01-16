@@ -12,5 +12,12 @@
     "assets": {
       "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
     }
+  },
+  {
+    "id": "script.module.debugpy",
+    "username": "softalkodi",
+    "assets": {
+      "zip": "https://github.com/{username}/{repository}/archive/{version}.zip"
+    }
   }
 ]
